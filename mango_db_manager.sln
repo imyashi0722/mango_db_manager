@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "mango_db_manager", "mango_db_manager.pyproj", "{FE78435F-1BFB-42A1-9797-BA54D8BE5674}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE78435F-1BFB-42A1-9797-BA54D8BE5674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE78435F-1BFB-42A1-9797-BA54D8BE5674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44029E23-EE22-4DBA-8176-12DDD5A9B725}
+	EndGlobalSection
+EndGlobal
